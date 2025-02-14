@@ -1,0 +1,17 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "docx>=0.2.4",
+    "fpdf>=1.7.2",
+    "fpdf2>=2.8.2",
+    "nest-asyncio>=1.6.0",
+    "openai>=1.61.1",
+    "pdf2docx>=0.5.8",
+    "python-docx>=1.1.2",
+    "python-telegram-bot==20.7",
+    "telegram>=0.0.1",
+    "twilio>=9.4.4",
+]
